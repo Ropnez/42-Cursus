@@ -1,2 +1,0 @@
-# Minitalk
-with bonus
